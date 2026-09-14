@@ -1,100 +1,127 @@
-# `shxp3`
+<div align="center">
 
-> student • developer • builder
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   Hey, I'm Shape.                            │
-│                                              │
-│   I build things I find interesting.         │
-│   Sometimes useful. Sometimes stupid.        │
-│   Usually both.                              │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-### `whoami`
-
-I'm a student from **Thailand** interested in software development, AI, automation, and anything that involves making a computer do something it wasn't supposed to do.
-
-I learn mostly by **building things, breaking them, and fixing them again.**
-
-Currently exploring:
-
-```text
-AI              ███████████████░░░  75%
-Software        █████████████████░░  85%
-Automation      ██████████████░░░░░  70%
-Systems         ███████████░░░░░░░░  55%
-Knowing what I'm doing
-                ████░░░░░░░░░░░░░░  20%
-```
-
-### `tech stack`
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,python,js,git,github,linux,discord" />
-</p>
-
-### `currently building`
-
-#### 🤖 Vaxir AI
-
-An AI-powered Discord bot designed for communities.
-
-```text
-Chat        →  AI conversations
-Coding      →  Code assistance
-Search      →  Information & research
-Tools       →  More useful Discord features
-```
-
-The goal isn't just to make another chatbot.
-
-It's to build something that people can actually **use**.
-
-### `github stats`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shxp3&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shxp3&layout=compact&hide_border=true&theme=transparent" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shxp3&theme=transparent&hide_border=true" />
-</p>
-
-### `activity`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shxp3&theme=github-compact&hide_border=true&area=true" />
-</p>
-
-### `random facts`
-
-```diff
-+ I like coding more than circuits.
-+ I prefer building projects over watching tutorials.
-+ I tend to overthink things.
-+ If something looks interesting, I'll probably try to build it.
-- I definitely know what I'm doing all the time.
-```
-
-### `contact`
-
-<p align="center">
-  <a href="https://github.com/shxp3">
-    <img src="https://img.shields.io/badge/GitHub-shxp3-181717?style=for-the-badge&logo=github" />
+  <!-- Animated Typing Title -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vcenter=true&width=550&height=50&lines=Hey!+I'm+Thanawat+(Shape)+%E2%9A%A1+shxp3;Software+Development+%E2%80%A2+AI+%E2%80%A2+Systems;Building+intelligent+tools+%26+exploring+code." alt="Typing SVG" />
   </a>
-</p>
+
+  <p align="center">
+    <code>Software Developer & High School Student passionate about AI, Systems, and Embedded Technologies.</code>
+  </p>
+
+  <!-- Status & Location Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/github/followers/shxp3?style=for-the-badge&logo=github&color=8B5CF6&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/Location-Thailand-FF4B4B?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/Focus-AI_%26_Software_Engineering-00D26A?style=for-the-badge&labelColor=0D1117" />
+  </p>
+
+</div>
 
 ---
 
-<p align="center">
-  <code>404: motivation not found</code>
-</p>
+### ⚡ `whoami`
 
-<p align="center">
-  <sub>Still learning. Still building. Still breaking things.</sub>
-</p>
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  I'm a high school developer based in Thailand with a strong interest in   │
+│  Software Engineering, AI Automation, Embedded Microcontrollers, and Linux  │
+│  Systems. I learn best by engineering real-world projects from scratch.      │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+#### 📊 Core Focus & Technical Areas
+
+```text
+Software Engineering    [█████████████████░░] 85%
+AI & Prompt Tools       [███████████████░░░] 75%
+Automation & Scripting  [██████████████░░░░] 70%
+Systems & Embedded IoT  [███████████░░░░░░░] 60%
+Problem Solving & R&D   [████████████████░░] 80%
+```
+
+---
+
+> [!NOTE]
+> ### 🔥 Engineering Philosophy
+> **Understand systems from first principles.**  
+> I build, analyze, and optimize software to truly grasp how complex technologies operate under the hood.
+
+> [!TIP]
+> ### ⚡ Development Mindset
+> **Theory gains value through practical application.**  
+> Rather than relying solely on tutorials, I bridge knowledge gaps by designing and deploying functional projects.
+
+> [!IMPORTANT]
+> ### 🚀 Innovation in the AI Era
+> **Leveraging AI to amplify human capability.**  
+> AI is a powerful force multiplier for rapid prototyping, architecture design, and creating intelligent developer workflows.
+
+---
+
+### 🛠 Tech Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,python,js,git,github,linux,discord,vscode" />
+</div>
+
+---
+
+### 🤖 Featured Project
+
+<div align="center">
+  <h3><b>Vaxir AI</b></h3>
+  <p><i>An AI-powered Discord Assistant engineered for intelligent community automation and productivity.</i></p>
+</div>
+
+| Feature Module | Technical Focus |
+| :--- | :--- |
+| 💬 **Conversational Engine** | Context-aware dialog processing & LLM integrations |
+| 💻 **Developer Utilities** | Code assistance, snippet evaluation, and debugging tools |
+| 🔍 **Information Retrieval** | Real-time web search synthesis & research automation |
+| 🛠 **System Management** | Robust command suite for server administration & tasks |
+
+> *Designed with a user-centric focus—building reliable, high-utility tools for everyday developer and community workflows.*
+
+---
+
+### 📈 GitHub Statistics & Activity
+
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shxp3&theme=tokyonight&hide_border=true" />
+</div>
+
+<br />
+
+---
+
+### 🎓 Personal Highlights
+
+```diff
++ Learning Approach: Hands-on project implementation paired with theoretical fundamentals.
++ Systems & Hardware: Experience configuring custom Linux environments and ESP32 embedded hardware.
++ Adaptability: Quick to master new languages, frameworks, and AI-assisted workflows.
++ Problem Solving: Driven by curiosity to decompose and solve challenging engineering tasks.
+```
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/shxp3" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/shapebruhbruh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <code>Engineering the future • One commit at a time</code>
+</div>
